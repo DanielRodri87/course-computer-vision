@@ -1,0 +1,4 @@
+Bibliografia complementar, e boa:
+
+1. Intro to Python for Computer Science and Data Science, Paul Deitel, Harvey Deitel
+2. Python Programming for Data Analysis, José Unpingco
